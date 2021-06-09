@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD3\Func.h(46,31): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD3\Func.h(73,31): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD3\Func.h(99,31): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  ALGSTRD3.vcxproj -> C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD3\Debug\ALGSTRD3.exe

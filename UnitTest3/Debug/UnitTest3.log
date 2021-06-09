@@ -1,0 +1,6 @@
+﻿  UnitTest3.cpp
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD3\Func.h(46,31): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD3\Func.h(73,31): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD3\Func.h(99,31): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+     Создается библиотека C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD3\Debug\UnitTest3.lib и объект C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD3\Debug\UnitTest3.exp
+  UnitTest3.vcxproj -> C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD3\Debug\UnitTest3.dll
